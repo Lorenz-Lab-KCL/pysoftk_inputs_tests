@@ -1,4 +1,4 @@
-Benzene Ring files with 4 units
+Benzene Ring files with 5 units
 ===================================
 
 Files contained:
