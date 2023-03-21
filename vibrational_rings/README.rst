@@ -7,7 +7,7 @@ Force Fields as implemented in RDKit.
 
 Folders are:
 
-1. Benzene_5 (A ring of 5 benzene molecules).
-2. Benzene_10 (A ring  of 10 benzene molecules).
+1. Benzene_ring_5 (A ring of 5 benzene molecules).
+2. Benzene_ring_10 (A ring  of 10 benzene molecules).
 3. Silanol (A ring of 4 silanol molecules)
 
