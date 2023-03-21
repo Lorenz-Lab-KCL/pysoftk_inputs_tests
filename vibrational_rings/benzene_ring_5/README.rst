@@ -1,7 +1,13 @@
 Benzene Ring files with 5 units
 ===================================
 
-Files contained:
+Estimates time:
+
+Used iterations:
+
+
+Files contained in this repo:
+===============================
 
 1. ring5.xyz (structure provided by PySoftK).
 2. g98.out
