@@ -1,7 +1,10 @@
-Silonol Ring with 10 units files
-===================================
+Silonol-Ring with 10 units
+=============================
 
-Files contained:
+
+
+Files contained in this repo:
+=================================
 
 1. silonol.xyz (structure provided by PySoftK).
 2. g98.out
