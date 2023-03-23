@@ -8,4 +8,4 @@ modeled structures including the script generating these structures.
 
 2. **long_polymer :** This folder contains 3 different folders where the longest polymer generated with PySoftK is presented. 
 
-3. **pysoftk_scripts :** A copy of all scripts used in the JCIM article can be found here, for users to download and validate.
+3. **article_scripts :** A copy of all scripts used in the JCIM article can be found here, for users to download and validate.
