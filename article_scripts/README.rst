@@ -9,4 +9,6 @@ In this repository, we are storing the employed scripts to generate the structur
 
 3. **Diblock:** Results from diblock polymer structures.
 
-4. **random:** Results from random polymer structures.
+4. **Random:** Results from random polymer structures.
+
+5. **Patterned:** Results from patterned polymer structures.
