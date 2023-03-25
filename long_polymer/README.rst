@@ -3,17 +3,3 @@ Testing longest Polymer PysoftK by unit repetition
 
 In this repository, we display the results of a benchmark performed testing the capabilities of PySoftK producing long-polymers
 as a number of unit repetitions. 
-
-
-These are the results for the **Lp** module:
-
-length (number of unit.mol) length(number unit_5.mol)   time (seconds)    
-2                           N/A   		        0.6747
-4			    N/A   			2.0392
-5			    N/A   			3.7090 
-8			    N/A   			29.7051
-10                          225.0359			336.4314
-15                          350.4328  			634.9923
-20                          9029.2393  			N/A
-30                                                      N/As
-
