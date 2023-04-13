@@ -1,10 +1,10 @@
 length (number of unit.mol) time(using unit.mol/seconds)   time (using unit_5.mol/seconds)    
-2 0.6747                         N/A   
-4	2.0392                         N/A
-5	3.7090                         N/A 
-8 29.7051                        N/A
-10 225.0			                   336.4
-15 350.4  			                 634.9
-20 9029.2			                   4414.5 
-25 MISSING                       7697.5                                 
-30 MISSING                       52939.6 
+2 0.1958                       N/A   
+4	2.5577                       N/A
+5	4.3334                       N/A 
+8 26.909                       N/A
+10 303.0586			               336.4
+15 542.1862 	                 634.9
+20                     4414.5 
+25 MISSING                     7697.5                                 
+30 MISSING                     
